@@ -1,0 +1,28 @@
+{
+  "name": "scvo-material-themes",
+  "version": "1.0.0",
+  "description": "Our Material Design Themes built using `material-components-web`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scvodigital/scvo-material-themes.git"
+  },
+  "keywords": [
+    "SCVO",
+    "Material",
+    "Design",
+    "Themes"
+  ],
+  "author": "Matthew Wilkes (SCVO)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/scvodigital/scvo-material-themes/issues"
+  },
+  "homepage": "https://github.com/scvodigital/scvo-material-themes#readme",
+  "dependencies": {
+    "material-components-web": "^0.20.0"
+  }
+}
